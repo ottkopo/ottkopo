@@ -1,3 +1,5 @@
+![lemin](https://user-images.githubusercontent.com/58331418/201920275-97cf4dda-c322-4caa-b47f-f1fbce589acc.gif)
+
 **Hey, and welcome to my GitHub page!**
 
 My name is Otto, and I study programming at an amazing school called Hive Helsinki, part of the 42-network of innovative coding schools. Read more about Hive Helsinki here: https://www.hive.fi/en/
