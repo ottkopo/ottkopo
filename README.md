@@ -1,5 +1,3 @@
-![lemin](https://user-images.githubusercontent.com/58331418/201920275-97cf4dda-c322-4caa-b47f-f1fbce589acc.gif)
-
 **Hey, and welcome to my GitHub page!**
 
 My name is Otto, and I study programming at an amazing school called Hive Helsinki, part of the 42-network of innovative coding schools. Read more about Hive Helsinki here: https://www.hive.fi/en/
@@ -30,3 +28,9 @@ I have a deep understanding of the C-language, and all the quirks it brings with
 *Python*
 
 I wanted to learn python so I decided to make a graphic visualizer for one of my projects I did at Hive called Filler. The Visualizer can be found on my project page for filler: https://github.com/ottkopo/42_filler
+
+**Here is a small animation I made for explaining one of our projects called lem-in**
+
+Project can be found here: https://github.com/ottkopo/lem-in
+
+![lemin](https://user-images.githubusercontent.com/58331418/201920428-752dc2b9-fd4e-4f93-9eb2-f39c60465c99.gif)
