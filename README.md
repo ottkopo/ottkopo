@@ -18,6 +18,6 @@ Currently I'm finalizing the very last project of the Inner Circle studies of Hi
 
 ## Recent projects
 
-[Filler](https://github.com/ottkopo/42_filler) || [lem_in](https://github.com/ottkopo/lem-in)
+[corewar](https://github.com/HenronenGIT/corewar) || [lem_in](https://github.com/ottkopo/lem-in) || [Filler](https://github.com/ottkopo/42_filler)
 
 ![lemin](https://user-images.githubusercontent.com/58331418/201920428-752dc2b9-fd4e-4f93-9eb2-f39c60465c99.gif)
