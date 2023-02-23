@@ -25,7 +25,7 @@ After finishing the final project of Hive, [corewar](https://github.com/Henronen
  - Create a pathfinding algorithm to guide X ammount of ants from point A to point B in a map with Y ammount of rooms in the shortest ammount of turns possible.
 
 [Filler](https://github.com/ottkopo/42_filler) *(C, Python, Heatmap, algorithms)*
- - Create an algorithm to play a game were 2 players take turns placing pieces on a map until one is unable to place any more pieces. I also created a neat visualizer for this project 
+ - Create an algorithm to play a game were 2 players take turns placing pieces on a map until one is unable to place any more pieces. I also created a neat visualizer for this project using Python.
 
 ## Animation I made to demonstrate the algorithm we used in the project lem-in
 ![lemin](https://user-images.githubusercontent.com/58331418/201920428-752dc2b9-fd4e-4f93-9eb2-f39c60465c99.gif)
